@@ -14,7 +14,7 @@ body{
 #container{
 	width:71%;
 	margin: 0 auto; 
-	background: #FFFAFA url(img/grille.png);
+	background: #FFFAFA url(grille.png);
 }
 
 img{
